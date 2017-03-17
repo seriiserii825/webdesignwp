@@ -1,0 +1,121 @@
+body{
+  //font-family: "Raleway", sans-serif;
+  font-weight: normal;
+  font-size: 14px;
+  min-width: 320px;
+  position: relative;
+  line-height: 1.42857;
+  background: #fff;
+-webkit-font-smoothing: antialised;
+}
+
+body input:focus:required:invalid,
+body textarea:focus:required:invalid{
+  color: red;
+}
+body input:required:valid,
+body textarea:required:valid{
+  color: green;
+}
+
+.hidden{
+  display: none;
+}
+/* loader */
+.loader{
+  height: 100%;
+  width: 100%;
+  position: fixed;
+  right: 0;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  background: none repeat scroll 0 0 #fff;
+  z-index: 9999;
+  .loader_inner{
+    background-image: url('../img/preloader.gif');
+    background-repeat: no-repeat;
+    background-position: 0 0;
+    background-size: cover;
+    background-color: #fff;
+    width: 60px;
+    height: 60px;
+    margin-top: -30px;
+    margin-left: -30px;
+    left: 50%;
+    top: 50%;
+    position: absolute;
+  }
+}
+
+.clearfix::after{
+  content: '';
+  display: block;
+  clear: both;
+}
+.hidden{
+  display: none;
+}
+ul{
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+img{
+  max-width: 100%;
+  height: auto;
+}
+svg{
+  position: relative;
+  width: 80px;
+  height: 80px;
+  z-index: 100;
+  fill: @color-lightgray;
+}
+/* section-table */
+.section-table{
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  display: table;
+  z-index: 10;
+}
+.section-row{
+  display: table-row;
+}
+.section-cell{
+  display: table-cell;
+  vertical-align: middle;
+  text-align: center;
+}
+
+/* section */
+.section{
+  padding: 70px 0;
+  &__title{
+    font-size: 25px;
+    line-height: 1em;
+    text-transform: uppercase;
+    text-align: center;
+  }
+  &__description{
+    position: relative;
+    margin-bottom: 50px;
+    padding-bottom: 50px;
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    &::after{
+      content: '';
+      position: absolute;
+      bottom: 0;
+      left: 50%;
+      margin-left: -75px;
+      width: 150px;
+      height: 1px;
+      background: @border-gray;
+    }
+  }
+}

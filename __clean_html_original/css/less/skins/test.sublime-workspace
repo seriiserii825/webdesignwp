@@ -1,0 +1,1951 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"bowo",
+				"bower_components/"
+			],
+			[
+				"mixitup__",
+				"mixitup__item-content-button\t(index.html)"
+			],
+			[
+				"js-",
+				"js-filter__item\t(index.html)"
+			],
+			[
+				"max-",
+				"max-width"
+			],
+			[
+				"fade",
+				"fadeOut"
+			],
+			[
+				"fadeIn",
+				"fadeInUp"
+			],
+			[
+				"js-header",
+				"js-header-title\t(header.html)"
+			],
+			[
+				"add",
+				"addClass"
+			],
+			[
+				"animation",
+				"animation-delay\t(main-header.less)"
+			],
+			[
+				"fadeI",
+				"fadeInUp"
+			],
+			[
+				"op",
+				"opacity"
+			],
+			[
+				"max",
+				"max-width\t(md-media.sublime-snippet)"
+			],
+			[
+				"md",
+				"max-width\t(md-media.sublime-snippet)"
+			],
+			[
+				"header",
+				"header-title"
+			],
+			[
+				"se",
+				"section-cell\t(header.html)"
+			],
+			[
+				"sw-",
+				"sw-bottom"
+			],
+			[
+				"top",
+				"top_menu__list-item\t(header.html)"
+			],
+			[
+				"js-to",
+				"js-top_menu\t(header.html)"
+			],
+			[
+				"js-m",
+				"js-top_menu\t(index.html)"
+			],
+			[
+				"js-t",
+				"js-toggle-menu\t(index.html)"
+			],
+			[
+				"s",
+				"sandwitch"
+			],
+			[
+				"sw",
+				"sw-topper\t(index.html)"
+			],
+			[
+				"heith",
+				"heightDetect"
+			],
+			[
+				"height",
+				"heightDetect"
+			],
+			[
+				"min-",
+				"min-height\t(main-header.less)"
+			],
+			[
+				"p",
+				"public/"
+			],
+			[
+				"pa",
+				"pages.less"
+			],
+			[
+				"import",
+				"@import\t@import url(${0});"
+			],
+			[
+				"clean",
+				"__clean_html_original"
+			],
+			[
+				"_",
+				"__clean_html_original/"
+			],
+			[
+				"bo",
+				"bootstrap.min.css\t(style.less)"
+			],
+			[
+				"browse",
+				"browser-sync"
+			],
+			[
+				"gulp",
+				"gulpSequence"
+			],
+			[
+				"libs",
+				"libsCss"
+			],
+			[
+				"libsc",
+				"libscssmin"
+			],
+			[
+				"libsJs",
+				"libsjsmin"
+			],
+			[
+				"jquery",
+				"jquery-hover-delay\t(main.js)"
+			],
+			[
+				"ja",
+				"jQuery-Hover-Delay"
+			],
+			[
+				"smo",
+				"smooth-scroll\t(main.js)"
+			],
+			[
+				"smoth",
+				"smoothscroll-for-websites"
+			],
+			[
+				"jq",
+				"jquery-migrate.min.js\t(main.js)"
+			],
+			[
+				"slick",
+				"slick-carousel"
+			],
+			[
+				"you",
+				"yourSex('михаил"
+			],
+			[
+				"ex",
+				"ex2"
+			],
+			[
+				"de",
+				"descr"
+			],
+			[
+				"range",
+				"range-section\t(catalog.html)"
+			],
+			[
+				"input",
+				"input-wrap\t(catalog.html)"
+			],
+			[
+				"out",
+				"outline"
+			],
+			[
+				"jquery-",
+				"jquery-ui.theme.css"
+			],
+			[
+				"jquer",
+				"jQuery_ui\t(style.less)"
+			],
+			[
+				"select",
+				"select-label\t(catalog.html)"
+			],
+			[
+				"rang",
+				"range-box\t(catalog.html)"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"tabs",
+				"tabs__item\t(catalog.html)"
+			],
+			[
+				"sectio",
+				"section-blue\t(catalog.html)"
+			],
+			[
+				"tran",
+				"transform"
+			],
+			[
+				"bag",
+				"background"
+			],
+			[
+				"no",
+				"no-repeat"
+			],
+			[
+				"data",
+				"dataClose"
+			],
+			[
+				"mdia",
+				"@media\t@media ${1:screen} {\n\t${0}\n}"
+			],
+			[
+				"din",
+				"dinpromedium\t(_mixins.less)"
+			],
+			[
+				"main",
+				"main-menu\t(header.html)"
+			],
+			[
+				"trnas",
+				"translate"
+			],
+			[
+				"trans",
+				"transform\t(help.less)"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"icon-he",
+				"icon-header-phone\t(icons.less)"
+			],
+			[
+				"icon-head",
+				"icon-header-logo\t(icons.less)"
+			],
+			[
+				"spr",
+				"sprite.less"
+			],
+			[
+				"base",
+				"base.less"
+			],
+			[
+				"fonts",
+				"fonts.less"
+			],
+			[
+				"animate",
+				"animate.min.css"
+			],
+			[
+				"show",
+				"show-footer"
+			],
+			[
+				"data-",
+				"data-dropdown\t(custom.js)"
+			],
+			[
+				"close",
+				"close-footer\t(footer-bottom.html)"
+			],
+			[
+				"foote",
+				"footer-top__logo"
+			],
+			[
+				"footer",
+				"footer-top.less"
+			],
+			[
+				"favo",
+				"favorite.less"
+			],
+			[
+				"bottom",
+				"bottom-slider\t(bottom-slider.html)"
+			],
+			[
+				"bott",
+				"bottom-slider.less"
+			],
+			[
+				"med",
+				"@media\t@media ${1:screen} {\n\t${0}\n}"
+			],
+			[
+				"media",
+				"@media\t@media ${1:screen} {\n\t${0}\n}"
+			],
+			[
+				"box-s",
+				"box-shadow"
+			],
+			[
+				"col-",
+				"col-xs-4\t(gallery.html)"
+			],
+			[
+				"con",
+				"content"
+			],
+			[
+				"tabs__na",
+				"tabs__nav-item\t(gallery.html)"
+			],
+			[
+				"gall",
+				"gallery.less"
+			],
+			[
+				"bann",
+				"banner.less"
+			],
+			[
+				"in",
+				"inherit"
+			],
+			[
+				"medi",
+				"@media\t@media ${1:screen} {\n\t${0}\n}"
+			],
+			[
+				"translate",
+				"translateX\t(slider.less)"
+			],
+			[
+				"me",
+				"@media\t@media ${1:screen} {\n\t${0}\n}"
+			],
+			[
+				"log",
+				"logo.png\tw:182 h:62"
+			],
+			[
+				"border-left",
+				"border-bottom-left-radius"
+			],
+			[
+				"col-sm-",
+				"col-sm-2\t(index.html)"
+			],
+			[
+				"fa-",
+				"fa-globe"
+			],
+			[
+				"clear",
+				"clearfix"
+			],
+			[
+				"cus",
+				"cursor"
+			],
+			[
+				"ver",
+				"vertical-align"
+			],
+			[
+				"nav",
+				"navbar"
+			],
+			[
+				"navbar",
+				"navbar-nav\t(index.html)"
+			],
+			[
+				"section",
+				"section-title\t(index.html)"
+			],
+			[
+				"page",
+				"page-header__top\t(index.html)"
+			],
+			[
+				"dis",
+				"display\t(base.less)"
+			],
+			[
+				"page-foot",
+				"page-foooter__bottom\t(index.html)"
+			],
+			[
+				"link",
+				"link-list\t(index.html)"
+			],
+			[
+				"page-f",
+				"page-foooter__bottom"
+			],
+			[
+				"section-",
+				"section-padding"
+			],
+			[
+				"row",
+				"row-bottom"
+			],
+			[
+				"select2-selectio",
+				"select2-selection__rendered"
+			],
+			[
+				"borderleft",
+				"border-top-left-radius"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"selec",
+				"selectify\t(style.less)"
+			],
+			[
+				"form-",
+				"form-control\t(index.html)"
+			],
+			[
+				"ti",
+				"times"
+			],
+			[
+				"clos",
+				"close-icon\t(index.html)"
+			],
+			[
+				"fa",
+				"fa-times-circle\t(index.html)"
+			],
+			[
+				"form",
+				"form-control\t(index.html)"
+			],
+			[
+				"b",
+				"background"
+			],
+			[
+				"form_",
+				"form_name"
+			],
+			[
+				"di",
+				"display\t(base.less)"
+			],
+			[
+				"re",
+				"required\tAttr"
+			],
+			[
+				"collaps",
+				"collapse__title"
+			],
+			[
+				"d",
+				"display"
+			],
+			[
+				"evert",
+				"events-gallery"
+			],
+			[
+				"auot",
+				"autoPlay"
+			],
+			[
+				"z",
+				"z-index\t(modal.less)"
+			],
+			[
+				"events",
+				"events-gallery\t(index.html)"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/Users/serii/Desktop/test/source/index.html",
+			"settings":
+			{
+				"buffer_size": 2380,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/serii/Desktop/test/source/less/style.less",
+			"settings":
+			{
+				"buffer_size": 2249,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/serii/Desktop/test/source/js/main.js",
+			"settings":
+			{
+				"buffer_size": 200,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/serii/Desktop/test/source/js/custom.js",
+			"settings":
+			{
+				"buffer_size": 338,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/serii/Desktop/test/gulpfile.js",
+			"settings":
+			{
+				"buffer_size": 2154,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 189.0,
+		"last_filter": "view",
+		"selected_items":
+		[
+			[
+				"view",
+				"View: Toggle Menu"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: #!/usr/bin/env"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"snippet",
+				"PHP Coding Standards Fixer: Fix this file (PHP Code Beautifier)"
+			],
+			[
+				"snippe",
+				"Snippet: html"
+			],
+			[
+				"package",
+				"Package Control: List Packages"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: List Packages"
+			],
+			[
+				"",
+				"CSS3: Validate"
+			],
+			[
+				"tag",
+				"Tag: Remove Picked Tags in Document"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"cTags",
+				"CTags: Show Symbols (all)"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"html",
+				"HTMLPrettify"
+			],
+			[
+				"sub",
+				"Preferences: SublimeLinter Settings – User"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"css",
+				"CSS3: Validate"
+			],
+			[
+				"js",
+				"Build With: JSHint"
+			],
+			[
+				"build er",
+				"Highlight Build Errors: Hide build errors"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"less",
+				"List LESS variables"
+			],
+			[
+				"w3c",
+				"W3C Validators: Validate HTML5"
+			],
+			[
+				"w",
+				"SublimeLinter: Show Errors on Save"
+			],
+			[
+				"save",
+				"CSS3: Validate"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"li",
+				"Package Control: List Packages"
+			],
+			[
+				"auo",
+				"AutoFileName: Quick Settings"
+			],
+			[
+				"lis",
+				"Package Control: List Packages"
+			],
+			[
+				"remove p",
+				"Package Control: Remove Package"
+			],
+			[
+				"pa",
+				"Package Control: Remove Package"
+			],
+			[
+				"rem",
+				"Emmet: Remove Tag"
+			],
+			[
+				"disable",
+				"Package Control: Disable Package"
+			],
+			[
+				"tag re",
+				"Tag: Auto-Format Tags on Document"
+			],
+			[
+				"color",
+				"Color Helper: Show Palettes"
+			],
+			[
+				"color he",
+				"Color Helper: Index Colors in File"
+			],
+			[
+				"i",
+				"Package Control: Install Package"
+			],
+			[
+				"sublime eror",
+				"SublimeLint: Next Error"
+			],
+			[
+				"sublime lint",
+				"SublimeLint: Show All Errors"
+			],
+			[
+				"lintershowa",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"lintershow",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"remove pa",
+				"Package Control: Remove Package"
+			],
+			[
+				"all pac",
+				"Package Control: List Packages"
+			],
+			[
+				"p",
+				"Package Control: Remove Package"
+			],
+			[
+				"pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"git ",
+				"Git: Commit history"
+			],
+			[
+				"git status",
+				"Git: Status"
+			],
+			[
+				"git push",
+				"Git: Push Current Branch"
+			],
+			[
+				"git c",
+				"Git: Commit"
+			],
+			[
+				"git",
+				"Git: Commit history"
+			],
+			[
+				"install pac",
+				"Package Control: Install Package"
+			],
+			[
+				"git comm",
+				"Git: Commit history"
+			],
+			[
+				"git com",
+				"Git: Commit history"
+			],
+			[
+				"git s",
+				"Git: Status"
+			],
+			[
+				"git add",
+				"Git: Add All"
+			],
+			[
+				"package control lis",
+				"Package Control: List Packages"
+			],
+			[
+				"install p",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 424.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"cs ",
+			"ls -l",
+			"git init",
+			"git status",
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/serii/Desktop/test",
+		"/C/Users/serii/Desktop/test/bower_components/Magnific-Popup/dist",
+		"/C/Users/serii/Desktop/test/public",
+		"/C/Users/serii/Desktop/test/source"
+	],
+	"file_history":
+	[
+		"/C/Users/serii/Desktop/test/package.json",
+		"/E/Server/OpenServer/domains/awesomag/src/js/main.js",
+		"/E/Server/OpenServer/domains/awesomag/gulpfile.js",
+		"/E/My sites/Eventide/gulpfile.js",
+		"/E/Server/OpenServer/domains/CatrineDove/gulpfile.js",
+		"/E/Server/OpenServer/domains/Mini/gulpfile.js",
+		"/E/Server/OpenServer/domains/Mini/src/js/main.js",
+		"/C/Users/serii/Desktop/test/source/css/style.css",
+		"/C/Users/serii/Desktop/test/public/css/style.css",
+		"/E/Server/OpenServer/domains/webdesignwp/wordpress-landing-page-lesson/__clean_html_original/css/less/pages.less/about.less",
+		"/E/Server/OpenServer/domains/webdesignwp/wordpress-landing-page-lesson/__clean_html_original/css/less/pages.less/main-header.less",
+		"/E/Server/OpenServer/domains/webdesignwp/wordpress-landing-page-lesson/__clean_html_original/html/header.html",
+		"/E/Server/OpenServer/domains/webdesignwp/wordpress-landing-page-lesson/.gitignore",
+		"/E/Server/OpenServer/domains/webdesignwp/wordpress-landing-page-lesson/.gitattributes",
+		"/C/Users/serii/AppData/Roaming/Sublime Text 3/Packages/User/lg.sublime-snippet",
+		"/C/Users/serii/AppData/Roaming/Sublime Text 3/Packages/User/xs.sublime-snippet",
+		"/C/Users/serii/AppData/Roaming/Sublime Text 3/Packages/User/sm.sublime-snippet",
+		"/C/Users/serii/AppData/Roaming/Sublime Text 3/Packages/User/php.sublime-snippet",
+		"/C/Users/serii/AppData/Roaming/Sublime Text 3/Packages/User/md-media.sublime-snippet",
+		"/E/Server/OpenServer/domains/Mini/src/less/imports/variables.less",
+		"/E/Server/OpenServer/domains/Mini/build/css/style.css",
+		"/E/Server/OpenServer/domains/Mini/src/less/imports/_mixins.less",
+		"/E/Server/OpenServer/domains/Mini/src/less/imports/base.less",
+		"/E/Server/OpenServer/domains/Mini/src/less/style.less",
+		"/C/Users/serii/Desktop/572ee93a2cdd41548f3f0b48.svg",
+		"/E/Server/OpenServer/domains/webdesignwp/wordpress-landing-page-lesson/package.json",
+		"/E/Server/OpenServer/domains/webdesignwp/wordpress-landing-page-lesson/gulpfile.js",
+		"/E/Server/OpenServer/domains/webdesignwp/wordpress-landing-page-lesson/__clean_html_original/js/common.js",
+		"/E/Server/OpenServer/domains/webdesignwp/wordpress-landing-page-lesson/__clean_html_original/img/logo.svg",
+		"/C/Users/serii/AppData/Roaming/Sublime Text 3/Packages/Gist/Gist.sublime-settings",
+		"/C/Users/serii/AppData/Roaming/Sublime Text 3/Packages/User/Gist.sublime-settings",
+		"/C/Users/serii/AppData/Roaming/Sublime Text 3/Packages/Gist/Default (Windows).sublime-keymap",
+		"/C/Users/serii/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/E/Server/OpenServer/domains/website/src/js/custom/custom.js",
+		"/E/Server/OpenServer/domains/wplanding/src/js/custom.js",
+		"/E/Server/OpenServer/domains/wplanding/src/js/main.js",
+		"/E/Server/OpenServer/domains/website/gulpfile.js",
+		"/E/Server/OpenServer/domains/webdesignwp/wordpress-landing-page-lesson/public/index.html",
+		"/E/Server/OpenServer/domains/wplanding/gulpfile.js",
+		"/C/Users/serii/AppData/Roaming/Sublime Text 3/.sublime/Local History/E/Server/OpenServer/domains/webdesignwp/wordpress-landing-page-lesson/gulpfile-20170313234542.js",
+		"/C/Users/serii/AppData/Roaming/Sublime Text 3/.sublime/Local History/E/Server/OpenServer/domains/webdesignwp/wordpress-landing-page-lesson/gulpfile-20170313234658.js",
+		"/E/Server/OpenServer/domains/webdesignwp/wordpress-landing-page-lesson/__clean_html_original/css/main.css",
+		"/E/Server/OpenServer/domains/webdesignwp/wordpress-landing-page-lesson/__clean_html_original/css/less/fonts.less",
+		"/E/Server/OpenServer/domains/webdesignwp/wordpress-landing-page-lesson/package243.json",
+		"/E/Server/OpenServer/domains/webdesignwp/wordpress-landing-page-lesson/__clean_html_original/css/media.css",
+		"/E/Server/OpenServer/domains/webdesignwp/wordpress-landing-page-lesson/__clean_html_original/css/less/skins/tomato.less",
+		"/E/Server/OpenServer/domains/webdesignwp/node_modules/.bin/gulp.cmd",
+		"/E/My sites/Biruang/gulpfile.js",
+		"/E/Server/OpenServer/domains/wplanding/build/index.html",
+		"/E/WEB/wordpress/функции Wordpress.txt",
+		"/E/Server/OpenServer/domains/wplanding/bower.json",
+		"/E/Server/OpenServer/domains/wplanding/src/libs/js/jquery-migrate.js",
+		"/E/Server/OpenServer/domains/wplanding/src/templates/end.html",
+		"/E/Server/OpenServer/domains/wplanding/src/templates/head.html",
+		"/E/Server/OpenServer/domains/wplanding/build/js/main.min.js",
+		"/E/Server/OpenServer/domains/wplanding/build/js/custom.min.js",
+		"/E/Server/OpenServer/domains/wplanding/src/html/main-nav.html",
+		"/E/Server/OpenServer/domains/wplanding/src/less/pages/header-top.less",
+		"/E/Server/OpenServer/domains/wplanding/package.json",
+		"/E/Server/OpenServer/domains/wplanding/src/less/pages/main-slider.less",
+		"/E/Server/OpenServer/domains/wplanding/index.html",
+		"/E/Server/OpenServer/domains/wplanding/src/libs/css/slick-theme.less",
+		"/E/Server/OpenServer/domains/wplanding/src/less/style.less",
+		"/E/Server/OpenServer/domains/wplanding/src/libs/css/slick.less",
+		"/E/Server/OpenServer/domains/wplanding/src/html/main-slider.html",
+		"/E/Server/OpenServer/domains/wplanding/src/libs/css/bootstrap.min.css",
+		"/E/Server/OpenServer/domains/wplanding/src/libs/css/normalize.css",
+		"/E/Server/OpenServer/domains/wplanding/bower_components/jquery-migrate/.bower.json",
+		"/E/Server/OpenServer/domains/wplanding/src/libs/css/bootstrap.less",
+		"/E/web/wordpress/функции Wordpress.txt",
+		"/E/шрифты/Fjala One/fjallaone.css",
+		"/E/Server/OpenServer/domains/website/src/index.html",
+		"/E/Server/OpenServer/domains/website/src/templates/head.html",
+		"/E/Server/OpenServer/domains/website/src/templates/end.html",
+		"/E/Server/OpenServer/domains/website/src/less/style.less",
+		"/E/Server/OpenServer/domains/website/package.json",
+		"/C/Users/serii/.PhpStorm2016.1/phpstorm64.exe.vmoptions",
+		"/E/Server/OpenServer/domains/website/build/index.html",
+		"/E/Server/OpenServer/domains/website/src/less/style.css",
+		"/C/Users/serii/Desktop/style.css",
+		"/C/Users/serii/Desktop/style.min.css",
+		"/E/Css_effects/links/index.html",
+		"/C/Users/serii/Desktop/file.txt",
+		"/C/Users/serii/Desktop/somefile.html",
+		"/C/Users/serii/somefile",
+		"/C/Users/serii/Desktop/test/index.html",
+		"/C/Program Files (x86)/PhpStorm 2016.1.1/bin/PhpStorm64.exe.vmoptions",
+		"/C/Users/serii/AppData/Local/Temp/fz3temp-2/style.css",
+		"/C/Users/serii/AppData/Local/Temp/fz3temp-2/main.js",
+		"/C/Users/serii/Downloads/snazzy-maps-example-classic-like-style.html",
+		"/E/Server/OpenServer/domains/CatrineDove/src/js/custom/custom.js",
+		"/E/Server/OpenServer/domains/CatrineDove/src/js/main.js",
+		"/E/Server/OpenServer/domains/CatrineDove/src/index.html",
+		"/E/Server/OpenServer/domains/CatrineDove/src/templates/footer.html",
+		"/E/Server/OpenServer/domains/CatrineDove/src/less/templates/footer.less",
+		"/E/Server/OpenServer/domains/CatrineDove/src/templates/main-header.html",
+		"/E/Server/OpenServer/domains/CatrineDove/src/portfolio.html",
+		"/E/Server/OpenServer/domains/CatrineDove/src/html/about-gallery.html",
+		"/E/Server/OpenServer/domains/CatrineDove/src/templates/end.html",
+		"/C/Users/serii/Downloads/skitter-master/skitter-master/dist/jquery.skitter.js",
+		"/C/Users/serii/Downloads/skitter-master/skitter-master/dist/skitter.css",
+		"/E/Server/OpenServer/domains/todo.html",
+		"/E/шрифты/Open_Sans/Opensanslight/opensanslight.css",
+		"/E/шрифты/Benchnine/Benchnine-regular/benchnineregular.css",
+		"/E/шрифты/Open_Sans/OpenSansItalic/opensansitalic.css",
+		"/E/шрифты/Benchnine/Benchine-bold/benchninebold.css",
+		"/E/шрифты/BadScript/BadScriptRegular/Badscriptregular.css",
+		"/E/шрифты/Benchnine/Benchine-light/benchninelight.css",
+		"/E/Maket/website/Free HTML5 Single Page Theme/site/index.html",
+		"/E/шрифты/Open_Sans/OpenSans/opensans.css",
+		"/E/шрифты/Open_Sans/fonts/opensans.css",
+		"/E/шрифты/Open_Sans/OpenSans-Light/font.css",
+		"/E/шрифты/Open_Sans/OpenSansLight/OpenSansLight.css",
+		"/E/шрифты/Open_Sans/Opensanslightitalic/opensanslightitalic.css",
+		"/E/шрифты/Kreon/Kreon/kreonregular.css",
+		"/E/шрифты/Kreon/KreonLight/kreonlight.css",
+		"/E/шрифты/DroidSans/DroidSans/droidsans.css",
+		"/E/шрифты/droidsans.css",
+		"/E/Server/OpenServer/domains/valaak.local/practice/style.css",
+		"/E/Server/OpenServer/domains/valaak.local/site/js/custom.js",
+		"/E/Server/OpenServer/domains/valaak.local/practice/custom.js",
+		"/E/My sites/StyleTour/gulpfile.js",
+		"/E/courses/PHP_maket/index.text",
+		"/E/Server/OpenServer/domains/valaak.local/gulpfile.js",
+		"/E/Maket/agency_business-web/web/js/move-top.js",
+		"/E/Server/OpenServer/domains/valaak.local/site/index.html",
+		"/E/Server/OpenServer/domains/valaak.local/practice/index.html",
+		"/E/Server/OpenServer/domains/valaak.locale/gulpfile.js"
+	],
+	"find":
+	{
+		"height": 30.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"E:\\Server\\OpenServer\\domains\\wplanding",
+			"E:\\Server\\OpenServer\\domains\\wplanding\\src",
+			"<open folders>",
+			"<current file>",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"<img src=",
+			"<figure",
+			"</figure>",
+			"filter__item",
+			"#616106",
+			"#a7a708",
+			"<button",
+			"<li>",
+			"about",
+			"a href",
+			"animated",
+			"main-header",
+			"ul",
+			"$",
+			"80px",
+			"$",
+			"image",
+			"fjala.eot",
+			"uglify",
+			"debug",
+			"notify",
+			"cached",
+			"debug",
+			"cssmin",
+			"rimraf",
+			"console.log",
+			"#map",
+			"h3",
+			"pre",
+			"section",
+			"echo",
+			"btn-blue",
+			"btn",
+			"992px",
+			".icon-header-logo",
+			"icon-header",
+			"icon-header-logo",
+			"992",
+			"1170",
+			"fade",
+			"fadeInLeft",
+			"fadeIn",
+			"zoomIn",
+			"data-wow-delay=\"1s\"",
+			"slideInLeft",
+			"favorite__item",
+			"<img src=\"img/",
+			"alt=\"brand",
+			"<div class=\"favorite__item\">",
+			"tabs__price",
+			"tabs__img",
+			"tabs__content-item",
+			"<a href=\"#\" class=\"tabs__price-button btn\">add to cart</a>",
+			"tabs__price-button",
+			"640",
+			"<i class=\"fa fa-caret-down",
+			"social__link",
+			"md",
+			"wow",
+			"row-item",
+			"row-item-col",
+			"row-item",
+			"row",
+			"row-item",
+			"btn-blue",
+			"collapse__content",
+			"collapse__title",
+			"<h3>title</h3>",
+			"<p>description</p>",
+			"text-decoration",
+			"grid",
+			"for",
+			"images",
+			"img",
+			"border-bottom",
+			"map",
+			"fadeIn",
+			"fadeInLeft",
+			"red",
+			"slick-arrow",
+			"testim",
+			"<span",
+			"</span>",
+			".section__item:first-of-type",
+			"</p>",
+			"<p>lo",
+			"body",
+			"favicon.ico",
+			">",
+			"favicon.ico",
+			"testimonials",
+			"testimon",
+			"js-te",
+			"testimonials",
+			"js-link-read-more",
+			"</span>",
+			"</p>",
+			"<p>L",
+			"160",
+			"<ul>",
+			"#title",
+			"a href=\"#\">Title 3",
+			"a href=\"#\">Title 2",
+			"a href=\"#\">Title 1",
+			">Title",
+			"id=\"title",
+			"<ul>",
+			"ul",
+			"lorem",
+			"carousel-example-generic",
+			"aria-expanded=\"true\"",
+			"fa-minus-circle",
+			"img-circle",
+			"carousel-example-generic",
+			"src=\"http://placehold.it/350*150\"",
+			"350x150800*400",
+			"div"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"1",
+			"",
+			"forParrent",
+			"main",
+			"200",
+			"carousel",
+			"aria-expanded=\"false\"",
+			"fa-plus-circle",
+			"img-circle front",
+			"carousel",
+			"src=\"http://placehold.it/350x150\"",
+			"350*150",
+			"section",
+			"</html>"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/Users/serii/Desktop/test/source/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2380,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								963,
+								963
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Afterglow-twilight (SL).tmTheme",
+							"open_with_edit": true,
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 662.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 1,
+					"file": "/C/Users/serii/Desktop/test/source/less/style.less",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2249,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								105,
+								105
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Afterglow-twilight (SL).tmTheme",
+							"syntax": "Packages/LESS/LESS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 2,
+					"file": "/C/Users/serii/Desktop/test/source/js/main.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 200,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								200,
+								200
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Afterglow-twilight (SL).tmTheme",
+							"open_with_edit": true,
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/C/Users/serii/Desktop/test/source/js/custom.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 338,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								338,
+								338
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Afterglow-twilight (SL).tmTheme",
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 4,
+					"file": "/C/Users/serii/Desktop/test/gulpfile.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2154,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1860,
+								1860
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Afterglow-twilight (SL).tmTheme",
+							"syntax": "Packages/Theme - Afterglow/Prefs/Langs/Gulpfile JS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 836.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			],
+			[
+				0,
+				1,
+				1,
+				2
+			],
+			[
+				1,
+				1,
+				2,
+				2
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.624143835616,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			0.482976040353,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 118.0
+	},
+	"output.find_results":
+	{
+		"height": 118.0
+	},
+	"output.git":
+	{
+		"height": 118.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 272.0
+	},
+	"pinned_build_system": "",
+	"project": "test.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"main-header",
+				"wordpress-landing-page-lesson\\__clean_html_original\\css\\less\\pages.less\\main-header.less"
+			],
+			[
+				"header.les",
+				"wordpress-landing-page-lesson\\__clean_html_original\\css\\less\\pages.less\\main-header.less"
+			],
+			[
+				"heam",
+				"wordpress-landing-page-lesson\\__clean_html_original\\html\\header.html"
+			],
+			[
+				"gulp",
+				"wordpress-landing-page-lesson\\gulpfile.js"
+			],
+			[
+				"comm",
+				"wordpress-landing-page-lesson\\__clean_html_original\\js\\common.js"
+			],
+			[
+				"",
+				"node_modules\\.bin\\gulp.cmd"
+			],
+			[
+				"end.html",
+				"src\\templates\\end.html"
+			],
+			[
+				"bower",
+				"bower.json"
+			],
+			[
+				"head",
+				"src\\templates\\head.html"
+			],
+			[
+				"end.ht",
+				"src\\templates\\end.html"
+			],
+			[
+				"style.le",
+				"src\\less\\style.less"
+			],
+			[
+				"slick-th",
+				"src\\libs\\css\\slick-theme.less"
+			],
+			[
+				"slick",
+				"src\\libs\\css\\slick.less"
+			],
+			[
+				"main-slider",
+				"src\\less\\pages\\main-slider.less"
+			],
+			[
+				"main-sli",
+				"src\\html\\main-slider.html"
+			],
+			[
+				"end",
+				"src\\templates\\end.html"
+			],
+			[
+				"bower.js",
+				"bower.json"
+			],
+			[
+				"head.",
+				"src\\templates\\head.html"
+			],
+			[
+				"cust",
+				"src\\js\\custom\\custom.js"
+			],
+			[
+				"main",
+				"src\\js\\main.js"
+			],
+			[
+				"port",
+				"src\\portfolio.html"
+			],
+			[
+				"header.",
+				"src\\templates\\main-header.html"
+			],
+			[
+				"footer.les",
+				"src\\less\\templates\\footer.less"
+			],
+			[
+				"footer",
+				"src\\templates\\footer.html"
+			],
+			[
+				"inde",
+				"site\\index.html"
+			],
+			[
+				"index.ht",
+				"node_modules\\bs-recipes\\recipes\\grunt.sass\\app\\index.html"
+			],
+			[
+				"style",
+				"style.css"
+			],
+			[
+				".gi",
+				".gitignore"
+			],
+			[
+				"pa",
+				"package.json"
+			],
+			[
+				"index",
+				"index.php"
+			],
+			[
+				"jquery-ui.the",
+				"src\\less\\libs\\slider-range\\jquery-ui.theme.css"
+			],
+			[
+				"nice",
+				"bower_components\\jquery-nice-select\\css\\nice-select.css"
+			],
+			[
+				"fir",
+				"src\\html\\first-section.html"
+			],
+			[
+				"firs",
+				"src\\less\\elements\\first-section.less"
+			],
+			[
+				"first",
+				"src\\less\\elements\\first-section.less"
+			],
+			[
+				"icons",
+				"src\\less\\imports\\icons.less"
+			],
+			[
+				"header",
+				"src\\less\\elements\\header.less"
+			],
+			[
+				"base",
+				"src\\less\\imports\\base.less"
+			],
+			[
+				"vari",
+				"bower_components\\bootstrap\\less\\variables.less"
+			],
+			[
+				"varie",
+				"src\\less\\imports\\variables.less"
+			],
+			[
+				"font",
+				"src\\less\\imports\\fonts.less"
+			],
+			[
+				"spriet",
+				"src\\less\\imports\\sprite.less"
+			],
+			[
+				"_mix",
+				"src\\less\\imports\\_mixins.less"
+			],
+			[
+				"var",
+				"src\\less\\imports\\variables.less"
+			],
+			[
+				"mixins",
+				"src\\fonts\\font-awesome\\less\\mixins.less"
+			],
+			[
+				"pac",
+				"package.json"
+			],
+			[
+				"footer-",
+				"src\\less\\elements\\footer-bottom.less"
+			],
+			[
+				"favorite",
+				"src\\html\\favorite.html"
+			],
+			[
+				"gall",
+				"src\\html\\gallery.html"
+			],
+			[
+				"bottom",
+				"src\\html\\bottom-slider.html"
+			],
+			[
+				"banner.ht",
+				"src\\html\\banner.html"
+			],
+			[
+				"gallery",
+				"src\\html\\gallery.html"
+			],
+			[
+				"favore",
+				"src\\less\\elements\\favorite.less"
+			],
+			[
+				"banner.le",
+				"src\\less\\elements\\banner.less"
+			],
+			[
+				"banner.",
+				"src\\html\\banner.html"
+			],
+			[
+				"galler",
+				"src\\html\\gallery.html"
+			],
+			[
+				"banner",
+				"src\\html\\banner.html"
+			],
+			[
+				"slider",
+				"src\\html\\slider.html"
+			],
+			[
+				"update",
+				"src\\html\\update.html"
+			],
+			[
+				"slider.les",
+				"src\\less\\elements\\slider.less"
+			],
+			[
+				"slick.le",
+				"src\\less\\libs\\slick\\slick.less"
+			],
+			[
+				"update.les",
+				"src\\less\\elements\\update.less"
+			],
+			[
+				"variabel",
+				"src\\less\\imports\\variables.less"
+			],
+			[
+				"heade",
+				"src\\less\\elements\\page-header.less"
+			],
+			[
+				"custom",
+				"src\\js\\custom.js"
+			],
+			[
+				"icon",
+				"src\\less\\imports\\icons.less"
+			],
+			[
+				"custo",
+				"src\\js\\custom.js"
+			],
+			[
+				"va",
+				"src\\less\\imports\\variables.less"
+			],
+			[
+				"boot",
+				"bower_components\\bootstrap\\less\\bootstrap.less"
+			],
+			[
+				"navbar",
+				"bower_components\\bootstrap\\less\\navbar.less"
+			],
+			[
+				"mixi",
+				"bower_components\\bootstrap\\less\\mixins.less"
+			],
+			[
+				"nav",
+				"bower_components\\bootstrap\\less\\navbar.less"
+			],
+			[
+				"navba",
+				"bower_components\\bootstrap\\less\\navbar.less"
+			],
+			[
+				"variab",
+				"src\\less\\imports\\variables.less"
+			],
+			[
+				"form",
+				"src\\less\\elements\\form.less"
+			],
+			[
+				"speak",
+				"src\\less\\elements\\speakers.less"
+			],
+			[
+				"events.l",
+				"src\\less\\elements\\events.less"
+			],
+			[
+				"spe",
+				"src\\less\\elements\\speakers.less"
+			],
+			[
+				"events",
+				"src\\less\\elements\\events.less"
+			],
+			[
+				"event",
+				"src\\less\\elements\\events.less"
+			],
+			[
+				"speare",
+				"src\\less\\elements\\speakers.less"
+			],
+			[
+				"modal",
+				"src\\less\\elements\\modal.less"
+			],
+			[
+				"_mi",
+				"src\\less\\imports\\_mixins.less"
+			],
+			[
+				"speake",
+				"src\\less\\elements\\speakers.less"
+			],
+			[
+				"spea",
+				"src\\less\\elements\\speakers.less"
+			],
+			[
+				"speakers",
+				"src\\less\\elements\\speakers.less"
+			],
+			[
+				"speaker",
+				"src\\less\\elements\\speakers.less"
+			],
+			[
+				"varia",
+				"src\\less\\imports\\variables.less"
+			],
+			[
+				"custom.js",
+				"src\\js\\custom.js"
+			],
+			[
+				"base.less",
+				"src\\less\\imports\\base.less"
+			],
+			[
+				"fonts.less",
+				"src\\less\\imports\\fonts.less"
+			],
+			[
+				"main.j",
+				"src\\js\\main.js"
+			],
+			[
+				"side",
+				"src\\less\\imports\\elements\\sidebar.less"
+			],
+			[
+				"menu-top",
+				"src\\less\\imports\\elements\\menu-top.less"
+			],
+			[
+				"sidebar",
+				"src\\less\\imports\\elements\\sidebar.less"
+			],
+			[
+				"main-conte",
+				"src\\less\\imports\\elements\\main-content.less"
+			],
+			[
+				"main-slo",
+				"src\\less\\imports\\elements\\main-slogan.less"
+			],
+			[
+				"fonts",
+				"src\\less\\imports\\fonts.less"
+			],
+			[
+				"main-menu",
+				"src\\less\\imports\\elements\\main-menu.less"
+			],
+			[
+				"main-mne",
+				"src\\less\\imports\\elements\\main-menu.less"
+			],
+			[
+				"element",
+				"src\\less\\imports\\elements.less"
+			],
+			[
+				"main-cont",
+				"src\\less\\imports\\elements\\main-content.less"
+			],
+			[
+				"main-slog",
+				"src\\less\\imports\\elements\\main-slogan.less"
+			],
+			[
+				"bootr",
+				"bower_components\\bootstrap\\less\\bootstrap.less"
+			],
+			[
+				"main-slogan",
+				"src\\less\\imports\\elements\\main-slogan.less"
+			],
+			[
+				"main-sl",
+				"src\\less\\imports\\elements\\main-slider.less"
+			],
+			[
+				"menu-to",
+				"src\\less\\imports\\elements\\menu-top.less"
+			],
+			[
+				"main-",
+				"src\\less\\imports\\elements\\main-slider.less"
+			],
+			[
+				"slick.t",
+				"bower_components\\slick-carousel\\slick\\slick-theme.less"
+			],
+			[
+				"elemen",
+				"src\\less\\imports\\elements.less"
+			],
+			[
+				"_",
+				"src\\less\\imports\\_mixins.less"
+			],
+			[
+				"norm",
+				"bower_components\\normalize-css\\normalize.css"
+			],
+			[
+				"main.js",
+				"src\\js\\main.js"
+			],
+			[
+				"pack",
+				"bootstrap\\package.json"
+			],
+			[
+				"eleme",
+				"src\\less\\imports\\elements.less"
+			],
+			[
+				"_mixin",
+				"src\\less\\imports\\_mixins.less"
+			],
+			[
+				"base.les",
+				"src\\less\\imports\\base.less"
+			],
+			[
+				"cus",
+				"src\\js\\custom\\custom.js"
+			],
+			[
+				"style.css",
+				"build\\css\\style.min.css"
+			],
+			[
+				"style.min",
+				"build\\css\\style.min.css"
+			],
+			[
+				"index.html",
+				"build\\index.html"
+			],
+			[
+				"base.le",
+				"src\\less\\imports\\base.less"
+			],
+			[
+				"style.mi",
+				"build\\css\\style.min.css"
+			],
+			[
+				"style.",
+				"build\\css\\style.css"
+			],
+			[
+				"hea",
+				"src\\templates\\head.html"
+			],
+			[
+				"gul",
+				"gulpfile.js"
+			],
+			[
+				"style.les",
+				"src\\less\\style.less"
+			],
+			[
+				"gogole",
+				"js\\google_map.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 2,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 272.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

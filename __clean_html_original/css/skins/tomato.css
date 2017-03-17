@@ -1,0 +1,25 @@
+@mixin kerning(@kerning)
+	letter-spacing: @kerning + px;
+body {
+  color: #222;
+}
+a {
+  color: #FF6347;
+}
+p {
+  color: #888;
+}
+.color_element {
+  color: #FF6347;
+}
+.color_bg {
+  background-color: #FF6347;
+}
+.color_border {
+  border-color: #FF6347;
+}
+.main-color-bg {
+  background: #222;
+}
+
+/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInRvbWF0by5jc3MiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQUE7K0JBQytCO0FBQy9CO0VBQ0UsWUFBWTtDQUNiO0FBQ0Q7RUFDRSxlQUFlO0NBQ2hCO0FBQ0Q7RUFDRSxZQUFZO0NBQ2I7QUFDRDtFQUNFLGVBQWU7Q0FDaEI7QUFDRDtFQUNFLDBCQUEwQjtDQUMzQjtBQUNEO0VBQ0Usc0JBQXNCO0NBQ3ZCO0FBQ0Q7RUFDRSxpQkFBaUI7Q0FDbEIiLCJmaWxlIjoic2tpbnMvdG9tYXRvLmNzcyIsInNvdXJjZXNDb250ZW50IjpbIkBtaXhpbiBrZXJuaW5nKEBrZXJuaW5nKVxuXHRsZXR0ZXItc3BhY2luZzogQGtlcm5pbmcgKyBweDtcbmJvZHkge1xuICBjb2xvcjogIzIyMjtcbn1cbmEge1xuICBjb2xvcjogI0ZGNjM0Nztcbn1cbnAge1xuICBjb2xvcjogIzg4ODtcbn1cbi5jb2xvcl9lbGVtZW50IHtcbiAgY29sb3I6ICNGRjYzNDc7XG59XG4uY29sb3JfYmcge1xuICBiYWNrZ3JvdW5kLWNvbG9yOiAjRkY2MzQ3O1xufVxuLmNvbG9yX2JvcmRlciB7XG4gIGJvcmRlci1jb2xvcjogI0ZGNjM0Nztcbn1cbi5tYWluLWNvbG9yLWJnIHtcbiAgYmFja2dyb3VuZDogIzIyMjtcbn1cbiJdLCJzb3VyY2VSb290IjoiL3NvdXJjZS8ifQ== */

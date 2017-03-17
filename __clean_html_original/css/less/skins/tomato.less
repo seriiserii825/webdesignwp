@@ -1,0 +1,66 @@
+/* text-color */
+@color: #FF6347; //Theme skin
+@color-white: #fff;
+@color-lightgray: #ddd;
+@text_color: #888;
+@text_red: #ef1c24;
+
+/* bg-color */
+@main_color: #222;
+@bg_light: #FAFAFA;
+@bg_gray: #DCDCDC;
+@bg_dark: #434343;
+@bg_red: #ef1c24;
+
+/* border-color */
+@border-orange: #ff6347;
+@border-white: #ddd;
+@border-gray: #666;
+
+/* mixins */
+.bg-gray{
+  background: @bg_gray;
+}
+.bg-dark{
+  color: #aaa;
+  background: @bg_dark;
+}
+.text-red{
+  color: @text_red;
+}
+.inline-block(@valign: top){
+  display: inline-block;
+  vertical-align: @valign;
+}
+
+/* media
+ =================*/
+@lg-width: 1200px;
+@md-width: 992px;
+@sm-width: 768px;
+@xs-width: 480px;
+
+body{
+	color: @main_color;
+}
+
+a{
+  color: @color;
+}
+
+p{
+	color: @text_color;
+}
+
+.color_element{
+	color: @color;
+}
+.color_bg{
+	background-color: @color;
+}
+.color_border{
+  border-color: @color;
+}
+.main-color-bg{
+  background: @main_color;
+}
